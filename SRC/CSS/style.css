@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+.header1{
+    padding: 20px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    margin-left: 120px;
+}
+.navegation{
+    margin-right: 40px;
+    display: flex;
+    gap: 20px;
+    
+}
